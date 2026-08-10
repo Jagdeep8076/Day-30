@@ -11,4 +11,4 @@ function handleError(err, req, res, next){
    })
 }
 
-export default handleError 
+export default handleError
